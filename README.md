@@ -1,18 +1,28 @@
-### Hi there 👋
+Hi there 👋
 
-- 🔭 I’m currently graduating with a degree in Information Science at the University of Pittsburgh with a Secondary Field of Study in Digital Media.
-- 👯 I’m looking to collaborate on cybersecurity teams, web design projects, and any other IS-related projects.
-- 📫 How to reach me: Cell Phone - (412)-335-8134  Email: jerek.j.stegman@gmail.com  
+- I’m Jerek Stegman, an Information Science graduate from the University of Pittsburgh with a secondary field of study in Digital Media. I’m passionate about combining creativity, technology, and security to build reliable and user-focused digital experiences.
 
+- Currently, I’m working with a startup company to design and prototype applications using tools like Figma and FigJam, where I focus on usability, interface testing, and incorporating secure design principles.
 
+- 💻 Right now, I’m focused on:
 
+- Building a strong foundation in cybersecurity, network defense, and incident response
 
-- 🔭 I’m currently shadowing at the University of Pittsburgh Web Service team under Director and Assistant Director John Cooper and Alane Whooley (Respectively). 
-- 🌱 I’m currently learning how to apply my skill sets from my degree to real life work environments.
-- 👯 I’m looking to collaborate on web design projects, UI/UX researching, and other tech related projects.
-- 🤔 I’m looking for help with expanding my network and finding work in the technology field.
-- 💬 Ask me about anything!
-- 📫 How to reach me: (412)-335-8134 or jerek.j.stegman@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love to play guitar and spend time outdoors!
+- Expanding technical knowledge in IT systems, vulnerability management, and risk assessment
 
+- Applying a design-thinking approach to create secure, user-friendly systems
+
+🤝 Open to collaborate on:
+
+- Cybersecurity or IT-related projects
+
+- Secure web design and UI/UX initiatives
+
+- Research or applied projects that blend creativity and cyber resilience
+
+📫 Let’s connect!
+- Email: jerek.j.stegman@gmail.com
+
+- Phone: (412) 335-8134
+
+⚡ Fun fact: I love playing guitar and exploring the outdoors
